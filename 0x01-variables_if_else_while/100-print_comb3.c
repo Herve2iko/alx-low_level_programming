@@ -13,7 +13,9 @@
         {
                 putchar(a);
                 putchar(b);
+                putchar(',');
                 putchar(' ');
+
             b++;
         }
         a++;
