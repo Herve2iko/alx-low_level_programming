@@ -2,9 +2,9 @@
  
 int  main(void)
 {
-     int a;
-    int b;
-    int c;
+     int x;
+    int y;
+    int ;
  
     x = '0';
     y = '1';
