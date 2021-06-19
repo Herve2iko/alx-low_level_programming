@@ -4,7 +4,7 @@ int  main(void)
 {
      int x;
     int y;
-    int ;
+    int z;
  
     x = '0';
     y = '1';
